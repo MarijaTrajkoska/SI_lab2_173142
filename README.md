@@ -3,3 +3,4 @@
 <h3> Група на код: </h3>
 Ја добив групата на код: 6
 <h3> Control Flow Graph </h3>
+<img src="images/"CFG.png>
